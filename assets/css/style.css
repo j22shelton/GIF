@@ -1,0 +1,26 @@
+body {
+    background: url("https://wallpaperaccess.com/full/83106.jpg");
+   }
+   
+   .container {
+     margin: 0 auto;
+     width: 100%;
+     max-width: 960px;
+   }
+   
+   #CityButtons {
+       background-color: #092350;
+       color:black;
+       border: 5px;
+       padding: 7px 11px;
+       text-align: center;
+       font-size: 22px;
+       margin: 12px 7px;
+   
+   }
+   
+   #addCity {
+       font-size: 15px; 
+       margin: 10px;
+   }
+   
