@@ -9,6 +9,6 @@ Technology utilized: HTML, CSS, Javascript, J-Query, GIPHY API
 
 Contributer: Jocelyn Shelton
 
-![](/images/GIF Application.png?raw=true)
+![](/images/GIF.png?raw=true)
 
 https://j22shelton.github.io/GIF/
