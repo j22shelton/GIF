@@ -8,3 +8,7 @@ When the user clicks the GIF again, it stops playing.
 Technology utilized: HTML, CSS, Javascript, J-Query, GIPHY API
 
 Contributer: Jocelyn Shelton
+
+![](/images/GIF Application.png?raw=true)
+
+https://j22shelton.github.io/GIF/
